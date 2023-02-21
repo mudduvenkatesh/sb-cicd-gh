@@ -15,7 +15,7 @@
     <description>sb-cicd-gh</description>
     <properties>
         <java.version>17</java.version>
-        <sonar.projectKey>sb-cicd-gh</sonar.projectKey>
+        <sonar.projectKey>mudduvenkatesh_sb-cicd-gh</sonar.projectKey>
         <sonar.organization>mudduvenkatesh</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
